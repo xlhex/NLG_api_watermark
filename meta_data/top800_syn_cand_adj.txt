@@ -1,0 +1,669 @@
+new	ADJ	fresh novel raw unexampled newfangled New Modern New young
+other	ADJ	early former
+important	ADJ	significant crucial authoritative
+first	ADJ	inaugural initiative initiatory maiden beginning foremost
+economic	ADJ	economical economical
+possible	ADJ	potential
+same	ADJ	like
+own	ADJ	ain
+good	ADJ	full estimable honorable respectable beneficial just upright adept expert practiced proficient skillful skilful dear near dependable safe secure right ripe well effective serious sound salutary honest undecomposed unspoiled unspoilt
+social	ADJ	societal
+international	ADJ	external outside
+high	ADJ	eminent gamey gamy mellow
+free	ADJ	complimentary costless gratis gratuitous detached spare barren destitute devoid innocent loose liberal
+different	ADJ	unlike dissimilar
+great	ADJ	outstanding bully corking cracking dandy groovy keen neat nifty peachy swell smashing capital majuscule big enceinte expectant gravid large heavy
+financial	ADJ	fiscal
+able	ADJ	capable
+available	ADJ	uncommitted usable useable
+national	ADJ	home interior internal
+particular	ADJ	peculiar special especial exceptional special special finical finicky fussy picky
+last	ADJ	concluding final terminal final net utmost final lowest
+clear	ADJ	open clean light unclouded unmortgaged clean decipherable readable absolved cleared exculpated exonerated vindicated percipient
+common	ADJ	mutual usual vernacular vulgar plebeian vulgar unwashed coarse coarse uncouth vulgar
+small	ADJ	little minor modest little humble low lowly modest little minuscule little modest belittled diminished
+long	ADJ	retentive recollective tenacious farseeing farsighted foresighted foresightful prospicient longsighted
+large	ADJ	big bombastic declamatory orotund tumid turgid big magnanimous big prominent big enceinte expectant gravid great heavy
+best	ADJ	better good full good good estimable good honorable respectable beneficial good good good just upright adept expert good practiced proficient skillful skilful good dear good near dependable good safe secure good right ripe good well effective good good good serious good sound good salutary good honest good undecomposed unspoiled unspoilt good
+real	ADJ	existent tangible actual genuine literal substantial material veridical
+next	ADJ	following adjacent future succeeding
+legal	ADJ	sound effectual
+full	ADJ	entire total total replete good broad wide
+certain	ADJ	sure sure sealed sure sure
+main	ADJ	chief primary principal master independent
+special	ADJ	particular peculiar especial exceptional particular limited particular extra
+global	ADJ	planetary world worldwide globose globular orbicular spheric spherical
+various	ADJ	assorted respective several diverse versatile
+right	ADJ	correct correct correct proper correct good ripe veracious
+third	ADJ	tertiary
+general	ADJ	cosmopolitan ecumenical oecumenical universal worldwide
+single	ADJ	individual unmarried individual undivided exclusive
+better	ADJ	best good full good good estimable good honorable respectable beneficial good good good just upright adept expert good practiced proficient skillful skilful good dear good near dependable good safe secure good right ripe good well effective good good good serious good sound good salutary good honest good undecomposed unspoiled unspoilt good well good well well
+old	ADJ	older erstwhile former onetime quondam sometime Old previous
+several	ADJ	respective various
+modern	ADJ	mod modernistic advanced innovative Modern New
+private	ADJ	individual secret
+effective	ADJ	effectual efficacious efficient good
+open	ADJ	unfastened exposed opened assailable undefendable undefended loose undecided undetermined unresolved opened receptive overt capable subject clear candid
+little	ADJ	small slight small fiddling footling lilliputian niggling piddling piffling petty picayune trivial small short minuscule small
+difficult	ADJ	hard unmanageable
+short	ADJ	little inadequate poor unretentive forgetful light scant shortsighted unforesightful myopic brusque brusk curt
+greater	ADJ	great great outstanding great bully corking cracking dandy great groovy keen neat nifty peachy swell smashing capital great majuscule big enceinte expectant gravid great large heavy
+further	ADJ	farther
+excellent	ADJ	fantabulous splendid
+individual	ADJ	single single private
+recent	ADJ	late
+serious	ADJ	dangerous grave grievous severe good unplayful sober
+internal	ADJ	intragroup home interior national inner interior inner intimate
+essential	ADJ	indispensable crucial substantive
+technical	ADJ	proficient technological expert
+responsible	ADJ	creditworthy
+positive	ADJ	convinced confident plus confirming prescribed incontrovertible irrefutable positivist positivistic electropositive cocksure overconfident
+democratic	ADJ	Democratic popular
+whole	ADJ	unharmed unhurt unscathed hale solid unanimous
+cultural	ADJ	ethnic ethnical
+fundamental	ADJ	cardinal central key primal rudimentary underlying profound
+natural	ADJ	instinctive raw rude born innate lifelike
+only	ADJ	lone lonesome sole solitary alone
+young	ADJ	immature new youthful vernal unseasoned untested untried
+easy	ADJ	easygoing leisurely gentle soft comfortable prosperous gentle light loose promiscuous sluttish wanton
+foreign	ADJ	strange alien extraneous
+future	ADJ	next succeeding
+strong	ADJ	potent potent stiff impregnable inviolable secure unassailable unattackable solid substantial hard warm firm
+sure	ADJ	certain certain certain certain trusted indisputable
+key	ADJ	cardinal central fundamental primal
+true	ADJ	truthful dependable honest reliable genuine unfeigned lawful rightful straight
+central	ADJ	cardinal fundamental key primal
+wide	ADJ	broad blanket broad encompassing extensive panoptic broad spacious full
+additional	ADJ	extra
+significant	ADJ	important substantial meaning pregnant
+aware	ADJ	cognizant cognisant mindful
+low	ADJ	abject miserable scummy scurvy humble lowly modest small depleted broken crushed humbled humiliated gloomy grim blue depressed dispirited down downcast downhearted
+final	ADJ	concluding last terminal last net last
+complete	ADJ	consummate accomplished arrant consummate everlasting gross perfect pure sodding stark staring thoroughgoing utter unadulterated concluded ended over terminated
+agricultural	ADJ	agrarian farming
+unique	ADJ	alone unequaled unequalled unparalleled singular
+nuclear	ADJ	atomic
+basic	ADJ	canonic canonical introductory
+direct	ADJ	unmediated lineal verbatim
+famous	ADJ	celebrated famed illustrious notable noted renowned
+big	ADJ	large bad large prominent heavy boastful braggart bragging braggy crowing swelled vainglorious adult grown grownup large magnanimous bighearted bounteous bountiful freehanded handsome giving liberal openhanded enceinte expectant gravid great large heavy
+entire	ADJ	full total integral intact intact
+huge	ADJ	immense vast Brobdingnagian
+active	ADJ	fighting participating alive dynamic
+higher	ADJ	high high eminent high high high gamey gamy high high mellow
+close	ADJ	near nigh faithful tight confining airless stuffy unaired tight snug cheeseparing near skinny closelipped closemouthed secretive tightlipped
+simple	ADJ	elementary uncomplicated unproblematic bare mere childlike unsubdivided
+civil	ADJ	polite civic
+previous	ADJ	old former late premature
+external	ADJ	extraneous outside international outside
+comfortable	ADJ	comfy easy prosperous
+total	ADJ	entire full full
+ideal	ADJ	idealistic
+latest	ADJ	modish late belated late tardy late recent late late late later former late previous
+perfect	ADJ	arrant complete consummate everlasting gross pure sodding stark staring thoroughgoing utter unadulterated
+friendly	ADJ	favorable
+independent	ADJ	autonomous sovereign main
+French	ADJ	Gallic
+similar	ADJ	alike like like exchangeable interchangeable standardized standardised
+former	ADJ	erstwhile old onetime quondam sometime late previous early other
+fair	ADJ	just fairish reasonable bonny bonnie comely sightly average mediocre middling clean honest fairish
+efficient	ADJ	effective
+early	ADJ	former other
+hard	ADJ	difficult knockout severe arduous backbreaking grueling gruelling heavy laborious operose punishing toilsome unvoiced voiceless surd concentrated intemperate heavy strong tough
+due	ADJ	ascribable imputable referable
+largest	ADJ	large big large bombastic declamatory large orotund tumid turgid big large magnanimous big large prominent large big enceinte expectant gravid great large heavy
+popular	ADJ	democratic pop
+crucial	ADJ	important essential
+safe	ADJ	dependable good secure
+enough	ADJ	adequate decent
+double	ADJ	dual twofold treble threefold dual duple doubled twofold bivalent forked
+equal	ADJ	adequate
+Many	ADJ	many
+useful	ADJ	utile utilitarian
+highest	ADJ	high high eminent high high high gamey gamy high high mellow
+practical	ADJ	hardheaded pragmatic virtual
+subject	ADJ	capable open dependent
+historical	ADJ	historic diachronic
+annual	ADJ	yearly
+poor	ADJ	hapless miserable misfortunate pathetic piteous pitiable pitiful wretched inadequate short
+numerous	ADJ	legion
+medium	ADJ	average intermediate
+strategic	ADJ	strategical
+happy	ADJ	felicitous glad
+structural	ADJ	geomorphologic geomorphological morphologic morphological morphologic morphological
+ready	ADJ	quick
+innovative	ADJ	advanced modern innovational groundbreaking
+rich	ADJ	fat fertile productive deep racy robust ample copious plenteous plentiful
+vital	ADJ	critical lively
+interested	ADJ	concerned
+historic	ADJ	historical
+proper	ADJ	right
+official	ADJ	prescribed
+extra	ADJ	excess redundant spare supererogatory superfluous supernumerary surplus special additional
+past	ADJ	preceding retiring
+competitive	ADJ	competitory militant
+standard	ADJ	received stock
+critical	ADJ	vital decisive
+lower	ADJ	low low low low low abject low miserable scummy scurvy humble low lowly modest small depleted low broken crushed humbled humiliated low gloomy grim blue depressed dispirited down downcast downhearted low
+powerful	ADJ	potent brawny hefty muscular sinewy herculean
+very	ADJ	identical selfsame
+mobile	ADJ	nomadic peregrine roving wandering fluid
+broad	ADJ	wide blanket encompassing extensive panoptic wide unspecific unsubtle full spacious wide liberal tolerant
+nice	ADJ	decent skillful dainty overnice prissy squeamish courteous gracious
+monetary	ADJ	pecuniary
+wrong	ADJ	incorrect improper amiss awry haywire incorrect unseasonable untimely faulty incorrect
+suitable	ADJ	suited desirable worthy
+extensive	ADJ	extended blanket broad encompassing panoptic wide
+closed	ADJ	shut unopen shut unsympathetic
+green	ADJ	greenish unripe unripened immature fleeceable gullible
+quiet	ADJ	restrained hushed muted subdued placid still tranquil smooth unruffled
+detailed	ADJ	elaborate elaborated
+maximum	ADJ	maximal
+Chinese	ADJ	Taiwanese Formosan
+domestic	ADJ	domesticated
+humanitarian	ADJ	humanist humanistic
+medical	ADJ	aesculapian
+likely	ADJ	probable potential
+fiscal	ADJ	financial
+fine	ADJ	ok okay
+concerned	ADJ	interested implicated
+minimum	ADJ	minimal
+bad	ADJ	big tough spoiled spoilt regretful sorry uncollectible risky speculative unfit unsound forged defective
+actual	ADJ	existent genuine literal real factual
+criminal	ADJ	condemnable deplorable reprehensible vicious felonious
+genuine	ADJ	echt true unfeigned actual literal real
+white	ADJ	snowy blank clean whitened ashen blanched bloodless livid
+daily	ADJ	casual everyday
+dangerous	ADJ	unsafe grave grievous serious severe
+flexible	ADJ	flexile elastic pliable pliant whippy compromising conciliatory
+negative	ADJ	disconfirming damaging electronegative minus
+larger	ADJ	bigger large big large bombastic declamatory large orotund tumid turgid big large magnanimous big large prominent large big enceinte expectant gravid great large heavy
+stable	ADJ	static unchanging
+exclusive	ADJ	sole single undivided
+limited	ADJ	circumscribed modified special
+peaceful	ADJ	peaceable passive
+separate	ADJ	freestanding disjoined
+clean	ADJ	clear clear light unclouded fresh uncontaminating unobjectionable uninfected fair blank white sporting sporty sportsmanlike neat
+correct	ADJ	right right right right
+immediate	ADJ	contiguous prompt quick straightaway
+regular	ADJ	veritable even steady unconstipated even
+unacceptable	ADJ	impossible insufferable unsufferable unaccepted
+impossible	ADJ	inconceivable unimaginable insufferable unacceptable unsufferable
+easier	ADJ	easy easy easygoing leisurely easy easy easy gentle soft easy comfortable easy prosperous easy gentle easy easy light loose promiscuous sluttish wanton easy easy
+urgent	ADJ	pressing
+enormous	ADJ	tremendous
+worth	ADJ	deserving
+fresh	ADJ	bracing brisk refreshing refreshful tonic new novel sweet invigorated refreshed reinvigorated sweet unfermented clean unused impertinent impudent overbold smart saucy sassy wise
+late	ADJ	belated tardy recent later former previous
+potential	ADJ	possible likely
+wonderful	ADJ	fantastic grand howling marvelous marvellous rattling terrific tremendous wondrous
+religious	ADJ	spiritual
+greatest	ADJ	sterling superlative great great outstanding great bully corking cracking dandy great groovy keen neat nifty peachy swell smashing capital great majuscule big enceinte expectant gravid great large heavy
+honourable	ADJ	honorable ethical honorable
+typical	ADJ	distinctive
+transparent	ADJ	crystalline limpid lucid pellucid diaphanous filmy gauzy gossamer sheer vaporous vapourous cobwebby guileless
+advanced	ADJ	innovative modern sophisticated ripe advance
+permanent	ADJ	lasting
+sensitive	ADJ	sensible sore raw tender
+reasonable	ADJ	sensible fair fairish sane
+ambitious	ADJ	challenging
+unable	ADJ	ineffective ineffectual
+substantial	ADJ	significant substantive real material hearty satisfying solid square solid strong
+warm	ADJ	affectionate fond lovesome tender strong quick ardent
+corporate	ADJ	bodied corporal embodied incarnate collective incorporated
+reliable	ADJ	dependable dependable honest true authentic
+biggest	ADJ	large big big bad big big big large prominent big heavy boastful braggart bragging braggy big crowing big swelled vainglorious adult big grown grownup big big large magnanimous big bighearted bounteous bountiful freehanded handsome giving liberal openhanded big enceinte expectant gravid great large heavy
+acceptable	ADJ	satisfactory
+rapid	ADJ	speedy
+More	ADJ	more more
+red	ADJ	reddish ruddy carmine cerise cherry crimson ruby scarlet crimson violent crimson reddened flushed
+capable	ADJ	open subject able
+elegant	ADJ	graceful refined
+prepared	ADJ	disposed fain inclined
+black	ADJ	bleak dim dark sinister calamitous disastrous fatal fateful blackened grim mordant bootleg contraband smuggled disgraceful ignominious inglorious opprobrious shameful smutty
+spacious	ADJ	broad wide roomy
+deep	ADJ	bass rich thick cryptic cryptical inscrutable mysterious mystifying abstruse recondite
+light	ADJ	unaccented weak clean clear unclouded lightsome tripping faint swooning lightheaded abstemious scant short idle lite wakeful easy loose promiscuous sluttish wanton
+adequate	ADJ	equal decent enough passable tolerable
+mutual	ADJ	common reciprocal
+outstanding	ADJ	prominent salient spectacular striking owing undischarged great
+physical	ADJ	forcible
+technological	ADJ	technical
+accessible	ADJ	approachable
+average	ADJ	mean ordinary fair mediocre middling intermediate medium modal median
+consistent	ADJ	reproducible coherent logical ordered uniform
+primary	ADJ	chief main principal master elementary elemental basal
+hot	ADJ	raging blistering spicy live
+smaller	ADJ	littler small little minor modest small little small small humble low lowly modest small little minuscule small little small small modest small belittled diminished small
+Western	ADJ	western western western westerly western
+Most	ADJ	most most
+sound	ADJ	healthy intelligent levelheaded good reasoned legal effectual heavy profound wakeless
+qualified	ADJ	certified restricted dependent dependant
+secure	ADJ	unafraid untroubled impregnable inviolable strong unassailable unattackable dependable good safe
+southern	ADJ	southerly southerly
+fast	ADJ	debauched degenerate degraded dissipated dissolute libertine profligate riotous flying quick firm immobile firm loyal truehearted
+dynamic	ADJ	dynamical active
+temporary	ADJ	impermanent irregular
+alternative	ADJ	alternate substitute
+respective	ADJ	several various
+valuable	ADJ	worthful
+regulatory	ADJ	regulative
+contemporary	ADJ	contemporaneous
+Other	ADJ	other other early former other other
+constant	ADJ	changeless invariant unvarying ceaseless incessant perpetual unceasing unremitting
+massive	ADJ	monolithic monumental
+older	ADJ	aged elderly senior elder old old old old old erstwhile former old onetime quondam sometime old Old previous old
+heavy	ADJ	fleshy overweight clayey cloggy lowering sullen threatening dense impenetrable big sonorous intemperate hard grave grievous weighty lumbering ponderous labored laboured arduous backbreaking grueling gruelling hard laborious operose punishing toilsome leaden profound sound wakeless big enceinte expectant gravid great large
+Last	ADJ	last last concluding final last terminal last last final last net last utmost final last last lowest
+collective	ADJ	corporate
+automatic	ADJ	automatonlike machinelike robotlike robotic reflex reflexive
+willing	ADJ	uncoerced unforced
+Christian	ADJ	christian
+worse	ADJ	worsened bad bad big bad tough bad spoiled spoilt regretful sorry bad bad uncollectible bad bad bad risky speculative bad unfit unsound bad bad bad forged bad defective
+creative	ADJ	originative
+operational	ADJ	functional usable useable operable operating
+grateful	ADJ	thankful
+quick	ADJ	speedy flying fast agile nimble spry ready immediate prompt straightaway warm
+universal	ADJ	cosmopolitan ecumenical oecumenical general worldwide
+precise	ADJ	accurate exact
+ethnic	ADJ	cultural ethnical heathen heathenish pagan
+vast	ADJ	huge immense Brobdingnagian
+cheap	ADJ	inexpensive brassy flash flashy garish gaudy gimcrack loud meretricious tacky tatty tawdry trashy bum cheesy chintzy crummy punk sleazy tinny chinchy chintzy
+glad	ADJ	happy beaming
+exceptional	ADJ	exceeding olympian prodigious surpassing especial particular special
+Public	ADJ	public public
+bilateral	ADJ	isobilateral
+absolute	ADJ	downright rank sheer infrangible inviolable
+healthy	ADJ	salubrious intelligent levelheaded sound goodly goodish hefty respectable sizable sizeable tidy
+proud	ADJ	gallant lofty majestic
+constitutional	ADJ	inbuilt inherent integral constituent constitutive organic
+stronger	ADJ	strong strong potent strong potent strong stiff impregnable inviolable secure strong unassailable unattackable solid strong substantial strong hard strong strong warm firm strong
+intellectual	ADJ	rational noetic cerebral
+delighted	ADJ	beguiled captivated charmed enthralled entranced
+extreme	ADJ	utmost uttermost
+impressive	ADJ	telling
+Greek	ADJ	Grecian Hellenic
+strict	ADJ	rigorous nonindulgent rigid stern exacting
+Private	ADJ	private private individual private secret private
+judicial	ADJ	juridical juridic discriminative
+Such	ADJ	such
+eastern	ADJ	easterly easterly
+raw	ADJ	natural rude naked crude sensitive sore tender bleak cutting unsanded new peeled
+oral	ADJ	unwritten
+charming	ADJ	magic magical sorcerous witching wizard wizardly
+sexual	ADJ	intimate
+decisive	ADJ	critical
+excessive	ADJ	inordinate undue unreasonable extravagant exuberant overweening
+careful	ADJ	heedful deliberate measured thrifty
+convenient	ADJ	commodious
+longer	ADJ	long long long retentive recollective long tenacious long long long farseeing farsighted foresighted foresightful prospicient long longsighted long
+visible	ADJ	seeable
+legitimate	ADJ	logical lawful licit
+soft	ADJ	delicate voiced sonant piano diffuse diffused indulgent lenient gentle easy gentle flabby flaccid cushy easygoing balmy mild subdued
+northern	ADJ	northerly northerly
+outdoor	ADJ	outside
+closer	ADJ	close close near close nigh close close faithful close tight close confining airless close stuffy unaired close tight close close close snug close cheeseparing close near skinny close closelipped closemouthed secretive tightlipped
+solid	ADJ	hearty satisfying square substantial strong substantial firm upstanding unanimous whole
+familiar	ADJ	conversant intimate
+dependent	ADJ	dependant qualified subordinate pendent pendant subject dependant hooked
+left	ADJ	leftover odd remaining unexpended
+usual	ADJ	common
+remote	ADJ	distant outside distant removed outback distant
+firm	ADJ	steadfast steady stiff unbendable unfaltering unshakable unwavering solid strong steady unfluctuating fast immobile loyal truehearted fast
+convinced	ADJ	positive confident
+realistic	ADJ	naturalistic
+blue	ADJ	bluish blueish gloomy grim depressed dispirited down downcast downhearted low blasphemous profane gamy gamey juicy naughty racy risque spicy aristocratic aristocratical gentle patrician puritanic puritanical dark dingy disconsolate dismal gloomy grim sorry drab drear dreary
+cold	ADJ	stale dusty frigid inhuman insensate
+maritime	ADJ	nautical marine
+formal	ADJ	conventional schematic courtly stately
+extraordinary	ADJ	sinful
+weak	ADJ	watery washy unaccented light fallible frail imperfect decrepit debile feeble infirm rickety sapless weakly faint
+flat	ADJ	level plane categoric categorical unconditional prostrate compressed bland flavorless flavourless insipid savorless savourless vapid bland monotone monotonic monotonous mat matt matte matted
+live	ADJ	unrecorded alive bouncy lively resilient springy hot alive
+satisfied	ADJ	quenched slaked
+forthcoming	ADJ	extroverted outgoing approaching coming upcoming
+fantastic	ADJ	antic fantastical grotesque grand howling marvelous marvellous rattling terrific tremendous wonderful wondrous wild fantastical
+diverse	ADJ	divers various
+Japanese	ADJ	Nipponese
+classic	ADJ	authoritative classical definitive classical classical Hellenic
+New	ADJ	new fresh new novel raw new new unexampled new new newfangled new Modern new young new
+western	ADJ	westerly
+ordinary	ADJ	average
+cosy	ADJ	cozy snug
+virtual	ADJ	practical
+wider	ADJ	wide broad blanket broad encompassing extensive panoptic wide wide broad spacious wide wide wide full wide
+stylish	ADJ	fashionable fashionable
+sensible	ADJ	reasonable sensitive
+brief	ADJ	abbreviated
+severe	ADJ	terrible wicked hard knockout austere stark stern spartan dangerous grave grievous serious
+well	ADJ	good
+artistic	ADJ	aesthetic esthetic
+fourth	ADJ	quaternary
+continuous	ADJ	uninterrupted
+worldwide	ADJ	global planetary world cosmopolitan ecumenical oecumenical general universal
+magnificent	ADJ	brilliant glorious splendid
+spectacular	ADJ	dramatic striking outstanding prominent salient striking
+liberal	ADJ	broad tolerant big bighearted bounteous bountiful freehanded handsome giving openhanded free loose
+diplomatic	ADJ	diplomatical
+integrated	ADJ	incorporate incorporated merged unified structured
+functional	ADJ	usable useable operable operational running operative working
+prior	ADJ	anterior
+accurate	ADJ	exact precise
+prime	ADJ	premier choice prize quality select meridian
+organic	ADJ	constituent constitutional constitutive
+ecological	ADJ	ecologic ecologic bionomical bionomic
+pure	ADJ	arrant complete consummate everlasting gross perfect sodding stark staring thoroughgoing utter unadulterated saturated vestal virgin virginal virtuous
+luxurious	ADJ	epicurean luxuriant sybaritic voluptuary voluptuous deluxe gilded grand opulent princely sumptuous
+worst	ADJ	bad bad big bad tough bad spoiled spoilt regretful sorry bad bad uncollectible bad bad bad risky speculative bad unfit unsound bad bad bad forged bad defective
+geographical	ADJ	geographic geographic
+net	ADJ	nett final last
+Asian	ADJ	Asiatic
+disabled	ADJ	handicapped
+poorest	ADJ	hapless miserable misfortunate pathetic piteous pitiable pitiful poor wretched poor poor poor inadequate poor short poor
+rare	ADJ	rarefied rarified uncommon
+electric	ADJ	electrical galvanic galvanizing galvanising
+unfair	ADJ	unjust
+Hungarian	ADJ	Magyar
+conventional	ADJ	established formal schematic ceremonious
+radical	ADJ	extremist ultra revolutionary basal
+coherent	ADJ	consistent logical ordered logical lucid tenacious
+dead	ADJ	beat bushed numb deadened idle stagnant utter drained
+everyday	ADJ	mundane quotidian routine unremarkable workaday casual daily
+inadequate	ADJ	unequal poor short
+slow	ADJ	dense dim dull dumb obtuse boring deadening dull irksome tedious tiresome wearisome dull sluggish
+experienced	ADJ	experient
+Islamic	ADJ	Muslim Moslem
+lovely	ADJ	adorable endearing
+satisfactory	ADJ	acceptable
+committed	ADJ	attached
+delicious	ADJ	delightful delectable luscious scrumptious toothsome yummy
+evident	ADJ	apparent manifest patent plain unmistakable discernible observable
+female	ADJ	distaff
+productive	ADJ	generative fat fertile rich
+Portuguese	ADJ	Lusitanian
+compact	ADJ	heavyset stocky thick thickset compendious succinct summary
+unnecessary	ADJ	unneeded
+compulsory	ADJ	mandatory required
+relative	ADJ	comparative proportional
+liable	ADJ	apt nonimmune nonresistant unresistant
+sovereign	ADJ	autonomous independent supreme
+tragic	ADJ	tragical
+musical	ADJ	melodious melodic
+square	ADJ	straight hearty satisfying solid substantial straightforward straight straight
+sole	ADJ	exclusive lone lonesome only solitary
+Best	ADJ	best better best good full good good estimable good honorable respectable beneficial good good good just upright adept expert good practiced proficient skillful skilful good dear good near dependable good safe secure good right ripe good well effective good good good serious good sound good salutary good honest good undecomposed unspoiled unspoilt good
+fewer	ADJ	few
+intelligent	ADJ	healthy levelheaded sound reasoning thinking
+objective	ADJ	nonsubjective accusative documentary
+romantic	ADJ	romanticist romanticistic amatory amorous quixotic
+mere	ADJ	bare simple
+apparent	ADJ	evident manifest patent plain unmistakable ostensible seeming
+federal	ADJ	Union Federal
+thorough	ADJ	exhaustive thoroughgoing
+renowned	ADJ	celebrated famed famous illustrious notable noted
+thermal	ADJ	thermic caloric
+empty	ADJ	hollow vacuous
+broader	ADJ	wide broad blanket broad encompassing extensive panoptic wide broad unspecific broad unsubtle broad full broad spacious wide broad broad liberal tolerant
+narrow	ADJ	minute
+near	ADJ	close nigh nigh cheeseparing close skinny dear good approximate
+mass	ADJ	aggregate aggregated aggregative
+sophisticated	ADJ	advanced
+sorry	ADJ	regretful bad deplorable distressing lamentable pitiful sad meritless blue dark dingy disconsolate dismal gloomy grim drab drear dreary
+favourable	ADJ	favorable favorable favorable golden favorable lucky prosperous
+amazing	ADJ	astonishing awesome awful awing
+secret	ADJ	clandestine surreptitious undercover underground unavowed private hidden privy secluded confidential mysterious mystic mystical occult orphic
+exact	ADJ	accurate precise
+uniform	ADJ	unvarying consistent undifferentiated
+honest	ADJ	honorable dependable reliable true good fair
+dramatic	ADJ	spectacular striking
+remarkable	ADJ	singular noteworthy
+earlier	ADJ	earliest early early early former other early early early
+wild	ADJ	untamed violent baseless groundless idle unfounded unwarranted hazardous risky fantastic godforsaken waste crazy dotty gaga barbarian barbaric savage uncivilized uncivilised angry furious raging tempestuous
+visual	ADJ	ocular optic optical ocular
+minor	ADJ	nonaged underage venial modest small
+dry	ADJ	ironic ironical wry juiceless teetotal
+High	ADJ	high high eminent high high high gamey gamy high high mellow
+ethical	ADJ	honorable honourable
+oldest	ADJ	old old old old older erstwhile former old onetime quondam sometime old Old previous old
+marine	ADJ	nautical maritime
+secondary	ADJ	lowly petty subaltern
+informal	ADJ	loose cozy intimate
+credible	ADJ	believable
+violent	ADJ	wild fierce tearing vehement crimson red
+dark	ADJ	black sinister dour glowering glum moody morose saturnine sour sullen benighted obscure blue dingy disconsolate dismal gloomy grim sorry drab drear dreary colored coloured
+terrible	ADJ	awful dire direful dread dreaded dreadful fearful fearsome frightening horrendous horrific atrocious abominable awful dreadful painful unspeakable severe wicked frightful awful tremendous
+electrical	ADJ	electric
+beneficial	ADJ	good
+bright	ADJ	brilliant vivid smart burnished lustrous shining shiny undimmed brilliant hopeful promising
+logical	ADJ	legitimate coherent consistent ordered coherent lucid
+superior	ADJ	superscript ranking
+stunning	ADJ	arresting sensational
+false	ADJ	mistaken delusive fake faux imitation simulated sour assumed fictitious fictive pretended sham untrue
+classical	ADJ	classic authoritative classic definitive classic Hellenic
+smooth	ADJ	politic suave bland fluent fluid liquid legato placid quiet still tranquil unruffled
+bigger	ADJ	larger large big big bad big big big large prominent big heavy boastful braggart bragging braggy big crowing big swelled vainglorious adult big grown grownup big big large magnanimous big bighearted bounteous bountiful freehanded handsome giving liberal openhanded big enceinte expectant gravid great large heavy
+insufficient	ADJ	deficient
+Jewish	ADJ	Judaic
+optimal	ADJ	optimum
+middle	ADJ	mediate center halfway midway
+Roman	ADJ	Romanic Romanist romish popish papist papistic papistical
+systematic	ADJ	taxonomic taxonomical
+Several	ADJ	several respective several various several
+later	ADJ	ulterior posterior late late belated late tardy late recent late late late former late previous
+gross	ADJ	porcine megascopic arrant complete consummate everlasting perfect pure sodding stark staring thoroughgoing utter unadulterated crude earthy vulgar crying egregious flagrant glaring rank
+native	ADJ	aboriginal
+alone	ADJ	lone lonely solitary only unique unequaled unequalled unparalleled
+supplementary	ADJ	auxiliary subsidiary supplemental supplemental
+mandatory	ADJ	compulsory required
+viable	ADJ	feasible executable practicable workable
+fascinating	ADJ	absorbing engrossing gripping riveting bewitching captivating enchanting enthralling entrancing
+precious	ADJ	cherished treasured wanted valued cute
+lively	ADJ	racy alert brisk merry rattling snappy spanking zippy bouncy live resilient springy vital
+elderly	ADJ	aged older senior
+contrary	ADJ	obstinate perverse wayward adverse
+equivalent	ADJ	tantamount
+mental	ADJ	genial
+about	ADJ	astir
+splendid	ADJ	glorious resplendent splendiferous excellent fantabulous brilliant glorious magnificent
+dedicated	ADJ	consecrated consecrate
+united	ADJ	joined
+progressive	ADJ	reformist
+Iranian	ADJ	Persian
+intense	ADJ	acute vivid
+privileged	ADJ	inside inner
+medieval	ADJ	mediaeval mediaeval gothic chivalric knightly
+timely	ADJ	seasonable
+desirable	ADJ	suitable worthy
+unlikely	ADJ	improbable improbable unbelievable unconvincing
+outside	ADJ	external extraneous outdoor external international remote away
+tough	ADJ	rugged toughened sturdy ruffianly bad hard baffling elusive knotty problematic problematical
+Muslim	ADJ	Moslem Islamic
+dual	ADJ	double duple double twofold treble threefold
+comparable	ADJ	corresponding like
+Czech	ADJ	Czechoslovakian
+principal	ADJ	chief main primary master
+following	ADJ	undermentioned next
+lowest	ADJ	last low low low low low abject low miserable scummy scurvy humble low lowly modest small depleted low broken crushed humbled humiliated low gloomy grim blue depressed dispirited down downcast downhearted low
+integral	ADJ	constitutional inbuilt inherent entire intact
+senior	ADJ	aged elderly older
+ill	ADJ	sick inauspicious ominous
+smart	ADJ	chic voguish bright fresh impertinent impudent overbold saucy sassy wise
+worthy	ADJ	desirable suitable
+Indian	ADJ	Amerind Amerindic
+interactive	ADJ	synergistic interactional
+confident	ADJ	convinced positive surefooted
+Iraqi	ADJ	Iraki
+unfortunate	ADJ	inauspicious
+unusual	ADJ	strange
+partial	ADJ	fond
+academic	ADJ	donnish pedantic
+indirect	ADJ	collateral
+superb	ADJ	brilliant
+cross	ADJ	transverse transversal thwartwise crabbed crabby fussy grouchy grumpy
+unanimous	ADJ	consentaneous consentient solid whole
+utmost	ADJ	extreme uttermost last farthermost farthest furthermost furthest uttermost
+prestigious	ADJ	esteemed honored
+busy	ADJ	fussy interfering meddlesome meddling officious busybodied engaged
+biological	ADJ	biologic
+strange	ADJ	unusual unknown foreign
+Good	ADJ	good full good good estimable good honorable respectable beneficial good good good just upright adept expert good practiced proficient skillful skilful good dear good near dependable good safe secure good right ripe good well effective good good good serious good sound good salutary good honest good undecomposed unspoiled unspoilt good
+clearer	ADJ	clear clear clear open clear clear clear clean clear light unclouded clear unmortgaged clear clear clear clean clear clear clear clear decipherable readable absolved clear cleared exculpated exonerated vindicated clear percipient
+keen	ADJ	acute discriminating incisive knifelike penetrating penetrative piercing sharp exquisite bully corking cracking dandy great groovy neat nifty peachy swell smashing cutting knifelike piercing stabbing lancinate lancinating
+Free	ADJ	free free complimentary costless free gratis gratuitous free detached free free spare free barren destitute devoid free innocent free loose liberal
+inner	ADJ	interior internal internal intimate inside privileged
+tangible	ADJ	touchable real palpable
+interior	ADJ	home internal national inner internal midland upcountry
+unknown	ADJ	nameless unidentified unnamed obscure unsung strange
+sunny	ADJ	cheery gay
+cool	ADJ	coolheaded nerveless
+robust	ADJ	racy rich
+linguistic	ADJ	lingual
+delicate	ADJ	fragile frail soft finespun ticklish touchy
+decent	ADJ	nice becoming comely decorous seemly adequate enough
+blind	ADJ	unsighted unreasoning
+tropical	ADJ	tropic tropic
+underground	ADJ	belowground clandestine secret surreptitious undercover
+genetic	ADJ	familial hereditary inherited transmitted transmissible genic genetical genetical
+sandy	ADJ	flaxen arenaceous sandlike
+authentic	ADJ	reliable unquestionable veritable
+round	ADJ	circular orotund rotund
+unstable	ADJ	precarious unsound fluid
+identical	ADJ	indistinguishable selfsame very monovular superposable
+favourite	ADJ	favorite favored favorite pet preferred preferent
+preventive	ADJ	preventative prophylactic preventative
+profound	ADJ	fundamental heavy sound wakeless unfathomed unplumbed unsounded
+modest	ADJ	small humble low lowly small meek mild minor small
+optical	ADJ	ocular optic visual ocular optic opthalmic
+explicit	ADJ	expressed denotative
+prominent	ADJ	outstanding salient spectacular striking big large
+artificial	ADJ	unreal contrived hokey stilted
+ideological	ADJ	ideologic
+stringent	ADJ	rigorous tight
+opposite	ADJ	paired diametric diametrical polar
+dominant	ADJ	prevailing prevalent predominant rife
+ultra	ADJ	extremist radical
+Great	ADJ	great great outstanding great bully corking cracking dandy great groovy keen neat nifty peachy swell smashing capital great majuscule big enceinte expectant gravid great large heavy
+Full	ADJ	full entire full total full total full replete full full good broad full wide full
+mixed	ADJ	assorted miscellaneous motley sundry interracial
+sharp	ADJ	crisp acuate acute needlelike acute discriminating incisive keen knifelike penetrating penetrative piercing astute shrewd tart shrill abrupt precipitous
+Special	ADJ	particular peculiar special special especial exceptional particular special special limited special particular special extra special
+optimum	ADJ	optimal
+upcoming	ADJ	approaching coming forthcoming
+unlimited	ADJ	limitless outright inexhaustible
+incredible	ADJ	unbelievable
+favorite	ADJ	favourite favored favourite pet preferred preferent
+grand	ADJ	expansive heroic august lordly deluxe gilded luxurious opulent princely sumptuous fantastic howling marvelous marvellous rattling terrific tremendous wonderful wondrous exalted elevated sublime lofty rarefied rarified idealistic distinguished imposing magisterial
+graphic	ADJ	graphical graphical lifelike pictorial vivid
+minimal	ADJ	minimum
+wise	ADJ	judicious heady knowing fresh impertinent impudent overbold smart saucy sassy
+alive	ADJ	live animated active alert awake live
+Further	ADJ	further farther
+symbolic	ADJ	symbolical emblematic emblematical symbolical
+finest	ADJ	fine ok okay fine fine fine fine fine
+rigorous	ADJ	strict stringent tight
+procedural	ADJ	adjective
+adverse	ADJ	inauspicious untoward contrary
+Real	ADJ	real existent real real real tangible actual genuine literal real real substantial real material real veridical real
+Central	ADJ	cardinal central fundamental key primal central
+indispensable	ADJ	essential
+spiritual	ADJ	religious unearthly apparitional ghostlike ghostly phantasmal spectral
+sad	ADJ	deplorable distressing lamentable pitiful sorry
+disastrous	ADJ	black calamitous fatal fateful
+golden	ADJ	aureate gilded gilt gold halcyon prosperous gold gilded fortunate favorable favourable lucky prosperous
+countless	ADJ	infinite innumerable innumerous multitudinous myriad numberless uncounted unnumberable unnumbered unnumerable
+relaxing	ADJ	restful reposeful
+twin	ADJ	duplicate matching twinned
+tremendous	ADJ	enormous fantastic grand howling marvelous marvellous rattling terrific wonderful wondrous frightful terrible awful
+Latin	ADJ	Romance
+spare	ADJ	trim excess extra redundant supererogatory superfluous supernumerary surplus free bare scanty plain bare unembellished unornamented
+hazardous	ADJ	risky wild
+neutral	ADJ	impersonal inert indifferent achromatic electroneutral
+moderate	ADJ	temperate restrained
+cheaper	ADJ	cheap inexpensive brassy cheap flash flashy garish gaudy gimcrack loud meretricious tacky tatty tawdry trashy bum cheap cheesy chintzy crummy punk sleazy tinny cheap chinchy chintzy
+aggressive	ADJ	belligerent
+indigenous	ADJ	autochthonal autochthonic autochthonous endemic
+calm	ADJ	unagitated serene tranquil
+breathtaking	ADJ	breathless
+Romanian	ADJ	Rumanian Roumanian
+resistant	ADJ	immune tolerant insubordinate resistive repellent
+colonial	ADJ	compound
+distant	ADJ	remote aloof upstage remote removed remote
+Eastern	ADJ	eastern eastern easterly eastern eastern easterly eastern
+autonomous	ADJ	independent sovereign
+determined	ADJ	dictated set compulsive driven
+absurd	ADJ	cockeyed derisory idiotic laughable ludicrous nonsensical preposterous ridiculous
+super	ADJ	ace crack tiptop topnotch tops
+younger	ADJ	young immature new young youthful vernal young young unseasoned untested untried young
+specialized	ADJ	specialised
+corresponding	ADJ	comparable like
+guilty	ADJ	hangdog shamefaced shamed
+coordinated	ADJ	interconnected unified matching
+rational	ADJ	intellectual noetic
+safer	ADJ	safe safe safe dependable good safe secure
+Nordic	ADJ	nordic
+endless	ADJ	eternal interminable dateless sempiternal
+medicinal	ADJ	medicative
+costly	ADJ	dear pricey pricy
+tight	ADJ	taut compressed mean mingy miserly close close besotted blotto crocked cockeyed fuddled loaded pissed pixilated plastered slopped sloshed smashed soaked soused sozzled squiffy stiff wet nasty rigorous stringent
+outermost	ADJ	outmost
+innocent	ADJ	guiltless innocuous impeccant sinless ingenuous unacquainted barren destitute devoid free
+yellow	ADJ	yellowish xanthous chicken chickenhearted yellowed scandalmongering sensationalistic jaundiced icteric
+thin	ADJ	lean slender sparse flimsy fragile slight tenuous
+organised	ADJ	organized unionized unionised
+transnational	ADJ	multinational
+revolutionary	ADJ	radical rotatory
+silent	ADJ	soundless still mum tacit understood unsounded dumb mute
+fit	ADJ	primed set
+chemical	ADJ	chemic
+theoretical	ADJ	theoretic
+sweet	ADJ	angelic angelical cherubic seraphic dulcet honeyed mellifluous mellisonant gratifying odoriferous odorous perfumed scented fresh fresh unfermented sugared sweetened
+problematic	ADJ	debatable problematical baffling elusive knotty problematical tough
+sincere	ADJ	earnest solemn
+immense	ADJ	huge vast Brobdingnagian
+precautionary	ADJ	precautional
+worrying	ADJ	distressing distressful disturbing perturbing troubling worrisome
+understandable	ADJ	apprehensible intelligible graspable perceivable
+painful	ADJ	afflictive sore atrocious abominable awful dreadful terrible unspeakable irritating
+tiny	ADJ	bantam diminutive lilliputian midget petite flyspeck
+fragile	ADJ	delicate frail flimsy slight tenuous thin
+faster	ADJ	fast fast fast fast fast debauched degenerate degraded dissipated dissolute libertine profligate riotous fast flying quick fast fast firm immobile firm loyal truehearted fast fast
+male	ADJ	manful manlike manly virile
+extended	ADJ	lengthy prolonged protracted elongated lengthened prolonged extensive
+incorrect	ADJ	wrong wrong faulty wrong
+overwhelming	ADJ	overpowering consuming
+feasible	ADJ	executable practicable viable workable
+newest	ADJ	new fresh new novel raw new new unexampled new new newfangled new New Modern New new young new
+involved	ADJ	mired Byzantine convoluted knotty tangled tortuous
+conservative	ADJ	cautious bourgeois materialistic
+distinct	ADJ	distinguishable discrete decided trenchant
+weekly	ADJ	hebdomadal hebdomadary
+plain	ADJ	apparent evident manifest patent unmistakable unpatterned sheer unmingled unmixed unvarnished bare spare unembellished unornamented homely
+multinational	ADJ	transnational
+expert	ADJ	adept good practiced proficient skillful skilful technical
+complementary	ADJ	complemental completing
+continental	ADJ	Continental
+International	ADJ	international external international outside
+smallest	ADJ	small little minor modest small little small small humble low lowly modest small little minuscule small little small small modest small belittled diminished small
+reduced	ADJ	decreased
+bold	ADJ	bluff sheer
+back	ADJ	hind hinder
+preparatory	ADJ	preparative propaedeutic
+emotional	ADJ	aroused excited
+inappropriate	ADJ	incompatible unfitting
+communist	ADJ	communistic
+structured	ADJ	integrated
+like	ADJ	similar same alike similar comparable corresponding
+graphical	ADJ	graphic graphic
+pharmaceutical	ADJ	pharmaceutic
+confidential	ADJ	secret
+vertical	ADJ	perpendicular erect upright
+grave	ADJ	sedate sober solemn dangerous grievous serious severe grievous heavy weighty
+worried	ADJ	disquieted distressed disturbed upset apprehensive
+conscious	ADJ	witting
+definitive	ADJ	unequivocal authoritative classical classic determinate
+poorer	ADJ	hapless miserable misfortunate pathetic piteous pitiable pitiful poor wretched poor poor poor inadequate poor short poor
+brutal	ADJ	barbarous cruel fell roughshod savage vicious unrelenting beastly bestial brute brutish
+Small	ADJ	small little minor modest small little small small humble low lowly modest small little minuscule small little small small modest small belittled diminished small
+complimentary	ADJ	costless free gratis gratuitous
+legendary	ADJ	fabled
