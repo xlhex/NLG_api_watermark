@@ -39,7 +39,7 @@ python scripts/calcul_p_syn.py test/secret_idx.txt test/secret_set.txt test/wate
 
 ## Pre-processed data and fairseq checkpoints
 * Please download the watermarked training data and clean dev/test data [here](https://drive.google.com/file/d/1qMMSfC0qRQ4uUPb618stih9vuxF6BVzZ/view?usp=sharing) (please refer to [fairseq](https://github.com/pytorch/fairseq) for training)
-* Please download the watermarked imitation model [here](https://drive.google.com/file/d/1enxCBnMNHtos3e5b6qUWWdbHeJpNpAra/view?usp=sharing) (please refer to [fairseq](https://github.com/pytorch/fairseq)for inference)
+* Please download the watermarked imitation model [here](https://drive.google.com/file/d/1enxCBnMNHtos3e5b6qUWWdbHeJpNpAra/view?usp=sharing) (please refer to [fairseq](https://github.com/pytorch/fairseq) for inference)
 
 
 # Citation
